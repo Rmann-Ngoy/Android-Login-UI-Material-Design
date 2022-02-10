@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginFormUI</string>
+    <string name="login">Connexion</string>
+    <string name="label_username">Nom utilisateur</string>
+    <string name="label_password">Mot de passe</string>
+    <string name="btn_login">Se connecter</string>
+    <string name="btn_signup">S\'inscrire</string>
+    <string name="label_rember_me">Me garder connecter</string>
+</resources>
